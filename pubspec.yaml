@@ -1,0 +1,36 @@
+
+name: supreme_journal
+description: Premium Material 3 journaling app with analytics and exports
+publish_to: 'none'
+version: 1.7.5+13
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  extension_google_sign_in_as_googleapis_auth: ^2.0.11
+  googleapis: ^13.2.0
+  google_sign_in: ^6.2.1
+  flutter_local_notifications: ^17.2.3
+  flutter:
+  assets:
+    - assets/journal_only_rules_v1.json
+    sdk: flutter
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+  sqflite: ^2.3.3+1
+  path_provider: ^2.1.4
+  local_auth: ^2.1.8
+  share_plus: ^10.0.2
+  file_picker: ^8.1.2
+  collection: ^1.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  assets:
+    - assets/journal_only_rules_v1.json
+  uses-material-design: true

@@ -1,0 +1,7 @@
+
+Flow Build 24 - No-Input Mode
+-----------------------------
+- Removed all manual inputs (sliders, context chips, outcome markers).
+- The entry screen is now pure free text + Save.
+- The app infers mood/energy/focus/contexts from language & metadata.
+- Nighttime advice triggers only on high-risk/activated days; Tomorrow preview always shows.

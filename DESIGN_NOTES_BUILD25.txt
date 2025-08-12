@@ -1,0 +1,7 @@
+
+Flow – Build 25 UI Refresh
+- Premium, theme-aware look: gradient surfaces, elevated cards, rounded corners, soft shadows.
+- Entry screen: prompt header, polished entry card, animated borders, floating save.
+- Advice/tomorrow: accent chips with icons for quick scanning.
+- Smooth theme and page transitions (AnimatedTheme + FadeScaleRoute).
+- All themes respected by surfaces and accents.

@@ -1,0 +1,9 @@
+
+Final Pass (Build 26)
+- Phrasing variety + positive reinforcement to avoid generic feel.
+- Autosave every 10s in editor; cancels on dispose.
+- Haptic feedback on Save.
+- Global text theme line-height for readability.
+- Settings shows 'Last backup' stub; auto-backup remains weekly.
+- Export includes build version stamp for downstream analysis.
+- UI/UX aligned to premium themes; gradients & cards from earlier build retained.
